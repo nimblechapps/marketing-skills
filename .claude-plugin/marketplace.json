@@ -1,0 +1,8 @@
+{
+  "name": "nimblechapps-marketing",
+  "owner": { "name": "Nimblechapps" },
+  "metadata": { "description": "Reviewed, vendor-neutral marketing skills for Claude", "version": "0.1.0" },
+  "plugins": [
+    { "name": "nimblechapps-marketing", "description": "15 vetted marketing skills: social, content, copy, video, events, influencers, PR, AI search, schema, site architecture, programmatic SEO, cold email, prospecting", "source": "./" }
+  ]
+}
